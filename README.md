@@ -1,2 +1,0 @@
-# AldeamoEmailApi
-Documentación
